@@ -10,6 +10,6 @@ vim-plug --> run powershell 1st
 npm install neovim -g
 pip install pynvim
 :checkhealth in neovim
-set nvim folder to Appdata\Local
+set nvim folder to Appdata\Local  --> make nvim
 :PlugInstall
 install coc-clangd
